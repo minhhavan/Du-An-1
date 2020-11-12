@@ -29,6 +29,13 @@ public class Person {
         this.address = address;
     }
     
+    public void a() {
+        System.out.println("");
+    }
+    
+    public void b() {
+        
+    }
     
     
 }
